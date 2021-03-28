@@ -6,4 +6,4 @@ randomNumber1 = Math.floor(Math.random() * 3)
 randomNumber2 = Math.floor(Math.random() * 3)
 randomNumber3 = Math.floor(Math.random() * 3)
 
-console.log("Hello")
+console.log(type1[randomNumber1], type2[randomNumber2],type3[randomNumber3])
